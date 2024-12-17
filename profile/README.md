@@ -8,6 +8,6 @@
 ## このサンプルの使用について
 このサンプルを参考にOrganizationを作るのは、もちろん許諾なしに可能です。
 
-もし「うちの研究室にも作成して欲しい」「質問したいことがある」などありましたら issueを作るか [masa0902dev](https://github.com/masa0902dev)にご連絡下さい。
+もし「うちの研究室にも作成して欲しい」「質問したいことがある」等あれば、issueを作るか [masa0902dev](https://github.com/masa0902dev)にご連絡下さい。
 
 コンタクト -> masa0902dev@gmail.com
